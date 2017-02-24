@@ -1,5 +1,5 @@
 # Sitecore.Support.94798
-When you search for an item in the content tree search then it is opened in a default language.<br/>
+An item is opened in a default language when you search it using the content tree search.<br/>
 This patch takes into account a content language.
 
 ## License  
