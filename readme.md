@@ -1,5 +1,6 @@
 # Sitecore.Support.94798
-Improve content tree search to open an item in a content language
+When you search for an item in the content tree search then it is opened in a default language.<br/>
+This patch takes into account a content language.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.94798/blob/master/LICENSE).  
